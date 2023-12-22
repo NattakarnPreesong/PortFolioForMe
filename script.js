@@ -1,11 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const links = [
         
-        { text: "YouTube", url: "https://www.youtube.com/channel/UCKDuxr3mkrO1knRyuCgH1oA", iconClass: "fab fa-youtube" },
-        { text: "Facebook", url: "https://www.facebook.com/nattakarn.preesong/", iconClass: "fab fa-facebook" },
-        { text: "Instagram", url: "https://www.instagram.com/nattakarn.preesong/", iconClass: "fab fa-instagram" },
-        { text: "Discord", url: "https://discord.gg/H889wwVKbm", iconClass: "fab fa-discord" },
-        { text: "Github", url: "https://github.com/NattakarnPreesong", iconClass: "fab fa-github" }
+     
         
     ];
 
